@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name/>
+        <source>url</source>
+        <sp_css/>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 16:59:05</sys_created_on>
+        <sys_id>b52f281edb2210105e87f53a299619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_update_name>sp_css_include_b52f281edb2210105e87f53a299619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 16:59:05</sys_updated_on>
+        <url>https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css</url>
+    </sp_css_include>
+</record_update>

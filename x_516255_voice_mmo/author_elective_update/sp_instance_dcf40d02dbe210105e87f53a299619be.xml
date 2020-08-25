@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7be48902dbe210105e87f53a29961918</sp_column>
+        <sp_widget display_value="youtube embed">bb6145cadba210105e87f53a299619b3</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 23:55:39</sys_created_on>
+        <sys_id>dcf40d02dbe210105e87f53a299619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_update_name>sp_instance_dcf40d02dbe210105e87f53a299619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 23:55:39</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=dcf40d02dbe210105e87f53a299619be"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</application>
+        <file_path/>
+        <instance_id>efeaab7bdb6f9b0c52e3f70fbf961962</instance_id>
+        <instance_name>dev68590</instance_name>
+        <name>sp_instance_dcf40d02dbe210105e87f53a299619be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">7be48902dbe210105e87f53a29961918</sp_column><sp_widget display_value="youtube embed">bb6145cadba210105e87f53a299619b3</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-11 23:55:39</sys_created_on><sys_id>dcf40d02dbe210105e87f53a299619be</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package><sys_policy/><sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope><sys_update_name>sp_instance_dcf40d02dbe210105e87f53a299619be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-11 23:55:39</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=dcf40d02dbe210105e87f53a299619be"/></record_update>]]></payload>
+        <payload_hash>1551609735</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>507e66e1db2210105e87f53a299619a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 23:55:39</sys_created_on>
+        <sys_id>1cf40d02dbe210105e87f53a299619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173dff36ede0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 23:55:39</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>54f40d028ae21010a4fe45a982450dc0</update_guid>
+        <update_guid_history>54f40d028ae21010a4fe45a982450dc0:1551609735</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5087c582dbe210105e87f53a29961909</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 00:06:50</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>5804e26ed75848569d43212aae4dd759</sys_id>
+        <sys_metadata>dcf40d02dbe210105e87f53a299619be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_scope_delete display_value="">4d0e7f3166294e2eab4f92f1de13fd24</sys_scope_delete>
+        <sys_update_name>sp_instance_dcf40d02dbe210105e87f53a299619be</sys_update_name>
+        <sys_update_version display_value="sp_instance_dcf40d02dbe210105e87f53a299619be">1cf40d02dbe210105e87f53a299619c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 00:06:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

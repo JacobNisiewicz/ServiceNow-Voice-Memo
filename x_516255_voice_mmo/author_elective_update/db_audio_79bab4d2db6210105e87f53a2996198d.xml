@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_audio">
+    <db_audio action="DELETE">
+        <active>true</active>
+        <audio>fcae7cd2db6210105e87f53a29961989</audio>
+        <name>newtest.ogg</name>
+        <sys_class_name>db_audio</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 17:49:33</sys_created_on>
+        <sys_id>79bab4d2db6210105e87f53a2996198d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>newtest.ogg</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_update_name>db_audio_79bab4d2db6210105e87f53a2996198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 18:06:58</sys_updated_on>
+    </db_audio>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>audio/ogg</content_type>
+        <file_name>audio.ogg</file_name>
+        <hash>e98010bc833dd9a295de58a31ad7ab7351a93bf83867f8f87e8fef1e58977231</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4714</size_bytes>
+        <size_compressed>2647</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 18:06:35</sys_created_on>
+        <sys_id>fcae7cd2db6210105e87f53a29961989</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-08-12 18:06:35</sys_updated_on>
+        <table_name>ZZ_YYdb_audio</table_name>
+        <table_sys_id>79bab4d2db6210105e87f53a2996198d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="audio.ogg" sys_id="fcae7cd2db6210105e87f53a29961989">fcae7cd2db6210105e87f53a29961989</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 18:06:35</sys_created_on>
+        <sys_id>b8ae7cd2db6210105e87f53a2996198a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>3516</length>
+        <position>1</position>
+        <sys_attachment display_value="audio.ogg" sys_id="fcae7cd2db6210105e87f53a29961989">fcae7cd2db6210105e87f53a29961989</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 18:06:35</sys_created_on>
+        <sys_id>3cae7cd2db6210105e87f53a2996198a</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</application>
+        <file_path/>
+        <instance_id>efeaab7bdb6f9b0c52e3f70fbf961962</instance_id>
+        <instance_name>dev68590</instance_name>
+        <name>db_audio_79bab4d2db6210105e87f53a2996198d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_audio"><db_audio action="INSERT_OR_UPDATE"><active>true</active><audio>fcae7cd2db6210105e87f53a29961989</audio><name>newtest.ogg</name><sys_class_name>db_audio</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 17:49:33</sys_created_on><sys_id>79bab4d2db6210105e87f53a2996198d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>newtest.ogg</sys_name><sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package><sys_policy/><sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope><sys_update_name>db_audio_79bab4d2db6210105e87f53a2996198d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-12 18:06:58</sys_updated_on></db_audio><sys_attachment action="INSERT_OR_UPDATE"><average_image_color/><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>audio/ogg</content_type><file_name>audio.ogg</file_name><hash>e98010bc833dd9a295de58a31ad7ab7351a93bf83867f8f87e8fef1e58977231</hash><image_height/><image_width/><size_bytes>4714</size_bytes><size_compressed>2647</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 18:06:35</sys_created_on><sys_id>fcae7cd2db6210105e87f53a29961989</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-12 18:06:35</sys_updated_on><table_name>ZZ_YYdb_audio</table_name><table_sys_id>79bab4d2db6210105e87f53a2996198d</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="audio.ogg" sys_id="fcae7cd2db6210105e87f53a29961989">fcae7cd2db6210105e87f53a29961989</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 18:06:35</sys_created_on><sys_id>b8ae7cd2db6210105e87f53a2996198a</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>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</data><length>3516</length><position>1</position><sys_attachment display_value="audio.ogg" sys_id="fcae7cd2db6210105e87f53a29961989">fcae7cd2db6210105e87f53a29961989</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 18:06:35</sys_created_on><sys_id>3cae7cd2db6210105e87f53a2996198a</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>newtest.ogg</record_name>
+        <reverted_from/>
+        <source>507e66e1db2210105e87f53a299619a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 18:06:58</sys_created_on>
+        <sys_id>2ebe3cd2db6210105e87f53a299619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173e3da8efc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 18:06:58</sys_updated_on>
+        <type>Audio</type>
+        <update_guid>a6be3cd2e4621010c888825a02e682b7</update_guid>
+        <update_guid_history>a6be3cd2e4621010c888825a02e682b7:-1827565582,3caebc565d621010ff425806c0405c74:-878281710,78aebc56df62101004afeb9baeb29771:-1613190366,13ba309251621010a5bc03df66fe9f53:1746706061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="newtest.ogg">d8240da2db3210105e87f53a29961953</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 23:24:45</sys_created_on>
+        <sys_db_object display_value="" name="db_audio">db_audio</sys_db_object>
+        <sys_id>1be06bf44714471e9a8728dd0a8a45b1</sys_id>
+        <sys_metadata>79bab4d2db6210105e87f53a2996198d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>newtest.ogg</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_scope_delete display_value="">4d0e7f3166294e2eab4f92f1de13fd24</sys_scope_delete>
+        <sys_update_name>db_audio_79bab4d2db6210105e87f53a2996198d</sys_update_name>
+        <sys_update_version display_value="db_audio_79bab4d2db6210105e87f53a2996198d">2ebe3cd2db6210105e87f53a299619b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 23:24:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

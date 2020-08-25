@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter/>
+        <name>voice memo</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 19:33:47</sys_created_on>
+        <sys_id>b2621d52dba210105e87f53a299619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>voice memo</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_update_name>sys_ui_formatter_b2621d52dba210105e87f53a299619d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 19:33:47</sys_updated_on>
+        <table>db_audio</table>
+        <type>component</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</application>
+        <file_path/>
+        <instance_id>efeaab7bdb6f9b0c52e3f70fbf961962</instance_id>
+        <instance_name>dev68590</instance_name>
+        <name>sys_ui_formatter_b2621d52dba210105e87f53a299619d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter/><name>voice memo</name><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 19:33:47</sys_created_on><sys_id>b2621d52dba210105e87f53a299619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>voice memo</sys_name><sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package><sys_policy/><sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope><sys_update_name>sys_ui_formatter_b2621d52dba210105e87f53a299619d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-12 19:33:47</sys_updated_on><table>db_audio</table><type>component</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>-2107948155</payload_hash>
+        <record_name>voice memo</record_name>
+        <reverted_from/>
+        <source>507e66e1db2210105e87f53a299619a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 19:33:47</sys_created_on>
+        <sys_id>12925152dba210105e87f53a299619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173e42a0c7c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 19:33:47</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>5a925152b1a21010454a4d8dca385aa2</update_guid>
+        <update_guid_history>5a925152b1a21010454a4d8dca385aa2:-2107948155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 22:03:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>6d9ffc0686c449b0b0da06b0edada909</sys_id>
+        <sys_metadata>b2621d52dba210105e87f53a299619d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>voice memo</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_parent display_value="Db Audio">e3cf73f7db3110105e87f53a29961903</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_scope_delete display_value="">4d0e7f3166294e2eab4f92f1de13fd24</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_b2621d52dba210105e87f53a299619d6</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_b2621d52dba210105e87f53a299619d6">12925152dba210105e87f53a299619a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 22:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

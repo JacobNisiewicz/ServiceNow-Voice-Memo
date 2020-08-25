@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_dependency">
+    <sp_dependency action="DELETE">
+        <module>youtubeEmbed</module>
+        <name>youtubeEmbed</name>
+        <page_load>false</page_load>
+        <sp_portals/>
+        <sys_class_name>sp_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 23:53:34</sys_created_on>
+        <sys_id>18544102dbe210105e87f53a299619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>youtubeEmbed</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_update_name>sp_dependency_18544102dbe210105e87f53a299619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 23:53:34</sys_updated_on>
+    </sp_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</application>
+        <file_path/>
+        <instance_id>efeaab7bdb6f9b0c52e3f70fbf961962</instance_id>
+        <instance_name>dev68590</instance_name>
+        <name>sp_dependency_18544102dbe210105e87f53a299619df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_dependency"><sp_dependency action="INSERT_OR_UPDATE"><module>youtubeEmbed</module><name>youtubeEmbed</name><page_load>false</page_load><sp_portals/><sys_class_name>sp_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-11 23:53:34</sys_created_on><sys_id>18544102dbe210105e87f53a299619df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>youtubeEmbed</sys_name><sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package><sys_policy/><sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope><sys_update_name>sp_dependency_18544102dbe210105e87f53a299619df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-11 23:53:34</sys_updated_on></sp_dependency></record_update>]]></payload>
+        <payload_hash>-1432550846</payload_hash>
+        <record_name>youtubeEmbed</record_name>
+        <reverted_from/>
+        <source>507e66e1db2210105e87f53a299619a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 23:53:34</sys_created_on>
+        <sys_id>7974c102dbe210105e87f53a29961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173dff1844e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 23:53:34</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>b174c10281e21010a1dd45391327fe25</update_guid>
+        <update_guid_history>b174c10281e21010a1dd45391327fe25:-1432550846</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="youtubeEmbed">9e140da2db3210105e87f53a299619c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 23:24:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_dependency">sp_dependency</sys_db_object>
+        <sys_id>66851cc5f54f4604b0c7cf14c3995110</sys_id>
+        <sys_metadata>18544102dbe210105e87f53a299619df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>youtubeEmbed</sys_name>
+        <sys_package display_value="Voice Memo" source="x_516255_voice_mmo">dc7e66e1db2210105e87f53a2996199e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Voice Memo">dc7e66e1db2210105e87f53a2996199e</sys_scope>
+        <sys_scope_delete display_value="">4d0e7f3166294e2eab4f92f1de13fd24</sys_scope_delete>
+        <sys_update_name>sp_dependency_18544102dbe210105e87f53a299619df</sys_update_name>
+        <sys_update_version display_value="sp_dependency_18544102dbe210105e87f53a299619df">7974c102dbe210105e87f53a29961925</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 23:24:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
