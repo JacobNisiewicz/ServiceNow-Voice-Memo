@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+<html>
+ <body>
+<div>
+        <h2>Record a Voice Memo</h2>
+        <p>
+            <button id="startRecord">Start Recording</button>
+            <button id="stopRecord" button="disabled">Stop Recording</button>
+        </p>    
+        <p>
+            <audio id="recordedAudio"></audio>
+            <a id="audioDownload"></a>
+        </p>
+</div>
+</body>
+
+
+<script>
+
+(function() {
+
+navigator.mediaDevices.getUserMedia({audio:true})
+    .then(stream => {
+        rec = new MediaRecorder(stream);
+        rec.ondataavailable = e => {
+            audioChunks.push(e.data);
+            if (rec.state == "inactive"){
+        let blob = new Blob(audioChunks,{type:'audio/mpeg'});
+        recordedAudio.src = URL.createObjectURL(blob);
+        recordedAudio.controls=true;
+        recordedAudio.autoplay=true;
+        audioDownload.href = recordedAudio.src;
+        audioDownload.download = 'Test';
+        audioDownload.innerHTML = 'download';
+     }
+        }
+    })
+    .catch(e=>console.log(e));
+
+startRecord.onclick = e => {
+  startRecord.disabled = true;
+  stopRecord.disabled=false;
+  audioChunks = [];
+  rec.start();
+}
+stopRecord.onclick = e => {
+  startRecord.disabled = false;
+  stopRecord.disabled=true;
+  rec.stop();
+}
+
+
+
+})();
+
+</script>
+</html>
+
+</j:jelly>
+
